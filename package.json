@@ -1,7 +1,6 @@
 {
   "name": "node_projects",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,14 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nodemon": "^1.18.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBooth33/shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JBooth33/shop/issues"
+  },
+  "homepage": "https://github.com/JBooth33/shop#readme",
+  "description": ""
 }
